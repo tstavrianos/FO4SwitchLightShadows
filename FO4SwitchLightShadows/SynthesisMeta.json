@@ -1,8 +1,8 @@
 {
-  "Nickname": "FO4SwitchLightShadows",
+  "Nickname": "Switch Light Shadows",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Switch Light Shadows",
+  "LongDescription": "Switch lights in all interior cells between NonShadowSpotlight and ShadowSpotlight.",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": [
